@@ -1,5 +1,7 @@
 import csv
+
 from icmplib import ping
+
 
 results_file_name = "ping_results.csv"
 
